@@ -11,3 +11,4 @@ docker-compose exec server bash -c 'npx sequelize db:migrate'
 ```
 
 Modificado por EU!
+Alterei de novo Só pra ver..
